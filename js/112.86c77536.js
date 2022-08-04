@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktoutiao_m"]=self["webpackChunktoutiao_m"]||[]).push([[112],{2112:function(t,e,u){u.r(e),u.d(e,{default:function(){return l}});var n=function(){var t=this,e=t._self._c;return e("div",[t._v(" video ")])},a=[],o={name:"video-vue",data(){return{}},methods:{}},r=o,i=u(1001),s=(0,i.Z)(r,n,a,!1,null,"34a98465",null),l=s.exports}}]);
+//# sourceMappingURL=112.86c77536.js.map
